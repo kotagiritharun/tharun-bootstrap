@@ -1,0 +1,16 @@
+.navbar{
+  background-color: #130BE6;
+}
+
+.nav-link, .nav-brand{
+  color: #c0fefc;
+  cursor: pointer;.
+}
+
+.nav-link{
+  margin-right: 1rem;
+}
+
+.nav-brand{
+  margin-left: 1em;
+}
